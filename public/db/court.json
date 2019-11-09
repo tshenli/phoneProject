@@ -1,0 +1,66 @@
+{
+    "err": 0,
+    "msg": "success",
+    "data": [
+        {
+            "type": 1,
+            "list": [
+                {
+                    "title": "休假旅行",
+                    "desc": "达人必备",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/49262/20/8730/145403/5d6285afEb0863f27/8f5108b2da8c679f.jpg!q70.jpg.dpg"
+                },
+                {
+                    "title": "休假旅行",
+                    "desc": "达人必备",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/85443/28/652/166018/5db17ae6Edda6d305/b3143a07227f2762.jpg!q70.jpg.dpg"
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "list": [
+                {
+                    "title": "温暖呵护",
+                    "desc": "呵护你的温暖",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/53178/21/4857/65139/5d28400fEcaf2272e/a0f5f3b1082d3e09.jpg!q70.jpg.dpg"
+                },
+                {
+                    "title": "温暖呵护",
+                    "desc": "呵护你的温暖",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/70917/5/14246/183099/5dbbf4d1Ec5c6ad64/4a9e5282d20d936f.jpg!q70.jpg.dpg"
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "list": [
+                {
+                    "title": "TCL",
+                    "desc": "TCL专区",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/58687/29/5692/79220/5d36b277E9d3d0f7e/bdc8c3aea2b67695.jpg!q70.jpg.dpg"
+                },
+                {
+                    "title": "傲娇女王",
+                    "desc": "自信而美丽",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/2448/25/3701/145211/5b9a3684E54c545c7/ac06b2b4952de423.png!q70.jpg.dpg"
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "list": [
+                {
+                    "title": "极客世界",
+                    "desc": "极客世界",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/45957/11/14784/171571/5dbaf740E42719633/7f4fa739c130c081.jpg!q70.jpg.dpg"
+                },
+                {
+                    "title": "海尔家电",
+                    "desc": "家电盛宴",
+                    "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/77310/37/7013/70780/5d50e360E37b8743a/8527ebdb3f118259.jpg!q70.jpg.dpg"
+                }
+            ]
+        }
+    ]
+}

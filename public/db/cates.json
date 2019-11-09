@@ -1,0 +1,155 @@
+{
+    "err": 0,
+    "msg": "success",
+    "data": [
+        {
+            "cate": "热门推荐",
+            "list": [
+                {
+                    "title": "热门分类",
+                    "list": [
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                            "name": "手机"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/21233/40/7634/13890/5c6d039bE8a65d667/aef9581abcc85725.png",
+                            "name": "耳机"
+                        },
+                        {
+                            "img": "//img20.360buyimg.com/focus/s140x140_jfs/t1/29265/29/7571/29171/5c6d0389E251fe5f2/987962eb75bfe813.png",
+                            "name": "电饭煲"
+                        },
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27400/283/1600620667/15106/a935e7bd/5be6f2e1Nfa8d9d6e.png",
+                            "name": "路由器"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                            "name": "三只松鼠"
+                        }
+                    ]
+                },
+                {
+                    "title": "拔草推荐",
+                    "list": [
+                        {
+                            "img": "//img10.360buyimg.com/focus/s140x140_jfs/t20356/99/118471868/26414/e301e0b7/5afd3d61Ne42d8f0d.jpg",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img20.360buyimg.com/focus/s140x140_jfs/t1/29265/29/7571/29171/5c6d0389E251fe5f2/987962eb75bfe813.png",
+                            "name": "电饭煲"
+                        },
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27400/283/1600620667/15106/a935e7bd/5be6f2e1Nfa8d9d6e.png",
+                            "name": "路由器"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/21233/40/7634/13890/5c6d039bE8a65d667/aef9581abcc85725.png",
+                            "name": "耳机"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                            "name": "三只松鼠"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cate": "个护清洁",
+            "list": [
+                {
+                    "title": "明星品牌",
+                    "list": [
+                        {
+                            "img": "//img13.360buyimg.com/focus/s140x140_jfs/t19159/296/2561042023/49706/b5b9a38c/5afd5700N355dfa7d.jpg",
+                            "name": "得宝"
+                        }
+                    ]
+                },
+                {
+                    "title": "纸品湿巾",
+                    "list": [
+                        {
+                            "img": "//img13.360buyimg.com/focus/s140x140_jfs/t21769/101/124948952/48248/832ede7b/5afd568bN971e6358.jpg",
+                            "name": "抽纸"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "cate": "美妆护肤",
+            "list": [
+                {
+                    "title": "热门分类",
+                    "list": [
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+                            "name": "手机"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/21233/40/7634/13890/5c6d039bE8a65d667/aef9581abcc85725.png",
+                            "name": "耳机"
+                        },
+                        {
+                            "img": "//img20.360buyimg.com/focus/s140x140_jfs/t1/29265/29/7571/29171/5c6d0389E251fe5f2/987962eb75bfe813.png",
+                            "name": "电饭煲"
+                        },
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27400/283/1600620667/15106/a935e7bd/5be6f2e1Nfa8d9d6e.png",
+                            "name": "路由器"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                            "name": "三只松鼠"
+                        }
+                    ]
+                },
+                {
+                    "title": "拔草推荐",
+                    "list": [
+                        {
+                            "img": "//img10.360buyimg.com/focus/s140x140_jfs/t20356/99/118471868/26414/e301e0b7/5afd3d61Ne42d8f0d.jpg",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img20.360buyimg.com/focus/s140x140_jfs/t1/29265/29/7571/29171/5c6d0389E251fe5f2/987962eb75bfe813.png",
+                            "name": "电饭煲"
+                        },
+                        {
+                            "img": "//img14.360buyimg.com/focus/s140x140_jfs/t27400/283/1600620667/15106/a935e7bd/5be6f2e1Nfa8d9d6e.png",
+                            "name": "路由器"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/21233/40/7634/13890/5c6d039bE8a65d667/aef9581abcc85725.png",
+                            "name": "耳机"
+                        },
+                        {
+                            "img": "//img30.360buyimg.com/focus/s140x140_jfs/t1/19730/14/9859/10199/5c8225eeE5e925911/054ccd7992f86199.png",
+                            "name": "口红"
+                        },
+                        {
+                            "img": "//img11.360buyimg.com/focus/s140x140_jfs/t1/30718/32/2643/9923/5c6d03ecEabd2d664/aaee556800519e1f.png",
+                            "name": "三只松鼠"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
